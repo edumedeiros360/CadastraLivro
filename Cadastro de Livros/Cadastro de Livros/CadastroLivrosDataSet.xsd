@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CadastroLivrosDataSet" targetNamespace="http://tempuri.org/CadastroLivrosDataSet.xsd" xmlns:mstns="http://tempuri.org/CadastroLivrosDataSet.xsd" xmlns="http://tempuri.org/CadastroLivrosDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="CadastroLivrosConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CadastroLivrosConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Cadastro_De_Livros.My.MySettings.GlobalReference.Default.CadastroLivrosConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_LIVROS_POR_AUTORTableAdapter" GeneratorDataComponentClassName="VW_LIVROS_POR_AUTORTableAdapter" Name="VW_LIVROS_POR_AUTOR" UserDataComponentName="VW_LIVROS_POR_AUTORTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CadastroLivrosConnectionString (MySettings)" DbObjectName="CadastroLivros.dbo.VW_LIVROS_POR_AUTOR" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Autor, Titulo, Assunto FROM dbo.VW_LIVROS_POR_AUTOR</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Autor" DataSetColumn="Autor" />
+              <Mapping SourceColumn="Titulo" DataSetColumn="Titulo" />
+              <Mapping SourceColumn="Assunto" DataSetColumn="Assunto" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CadastroLivrosDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="CadastroLivrosDataSet" msprop:Generator_UserDSName="CadastroLivrosDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VW_LIVROS_POR_AUTOR" msprop:Generator_TableClassName="VW_LIVROS_POR_AUTORDataTable" msprop:Generator_TableVarName="tableVW_LIVROS_POR_AUTOR" msprop:Generator_TablePropName="VW_LIVROS_POR_AUTOR" msprop:Generator_RowDeletingName="VW_LIVROS_POR_AUTORRowDeleting" msprop:Generator_RowChangingName="VW_LIVROS_POR_AUTORRowChanging" msprop:Generator_RowEvHandlerName="VW_LIVROS_POR_AUTORRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_LIVROS_POR_AUTORRowDeleted" msprop:Generator_UserTableName="VW_LIVROS_POR_AUTOR" msprop:Generator_RowChangedName="VW_LIVROS_POR_AUTORRowChanged" msprop:Generator_RowEvArgName="VW_LIVROS_POR_AUTORRowChangeEvent" msprop:Generator_RowClassName="VW_LIVROS_POR_AUTORRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Autor" msprop:Generator_ColumnVarNameInTable="columnAutor" msprop:Generator_ColumnPropNameInRow="Autor" msprop:Generator_ColumnPropNameInTable="AutorColumn" msprop:Generator_UserColumnName="Autor">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Titulo" msprop:Generator_ColumnVarNameInTable="columnTitulo" msprop:Generator_ColumnPropNameInRow="Titulo" msprop:Generator_ColumnPropNameInTable="TituloColumn" msprop:Generator_UserColumnName="Titulo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Assunto" msprop:Generator_ColumnVarNameInTable="columnAssunto" msprop:Generator_ColumnPropNameInRow="Assunto" msprop:Generator_ColumnPropNameInTable="AssuntoColumn" msprop:Generator_UserColumnName="Assunto">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

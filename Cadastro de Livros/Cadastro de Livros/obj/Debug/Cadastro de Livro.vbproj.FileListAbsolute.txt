@@ -1,0 +1,16 @@
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.exe.config
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.exe
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.pdb
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.xml
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livro.vbprojAssemblyReference.cache
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.Resources.resources
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livro.vbproj.GenerateResource.cache
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.exe
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.xml
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.pdb
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.mdiPrincipal.resources
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.frmCadastroAutor.resources
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.frmCadastroLivro.resources
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.frmCadastroAssunto.resources
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.Form1.resources
+C:\Alura\VB\Aula 2 pronta\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livro.vbproj.CoreCompileInputs.cache

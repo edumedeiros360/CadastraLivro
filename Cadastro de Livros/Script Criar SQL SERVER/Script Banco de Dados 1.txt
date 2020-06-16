@@ -1,0 +1,73 @@
+CREATE TABLE [dbo].[Assunto]
+(
+	[CodAs] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Descricao] NVARCHAR(20) NOT NULL
+)
+
+CREATE TABLE [dbo].[Autor]
+(
+	[CodAu] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nome] NVARCHAR(40) NOT NULL 
+)
+
+CREATE TABLE [dbo].[Livro]
+(
+	[CodL] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Titulo] NVARCHAR(40) NOT NULL,
+	[Editora] NVARCHAR(40) NOT NULL,
+	[Edicao] INT NOT NULL,
+	[AnoPublicacao] NUMERIC(4) NOT NULL
+)
+
+
+CREATE TABLE [dbo].[Livro_Assunto] 
+(
+    [Livro_Codl]    INT NOT NULL,
+    [Assunto_codAs] INT NOT NULL,
+    CONSTRAINT [FK_Livro_Assunto_Livro] FOREIGN KEY ([Livro_Codl]) REFERENCES [dbo].[Livro] ([CodL]),
+    CONSTRAINT [FK_Livro_Assunto_Assunto] FOREIGN KEY ([Assunto_codAs]) REFERENCES [dbo].[Assunto] ([CodAs])
+);
+
+
+GO
+CREATE NONCLUSTERED INDEX [Livro_assunto_FKIndex1]
+    ON [dbo].[Livro_Assunto]([Livro_Codl] ASC);
+
+
+GO
+CREATE NONCLUSTERED INDEX [Livro_assunto_FKIndex2]
+    ON [dbo].[Livro_Assunto]([Assunto_codAs] ASC);
+
+
+CREATE TABLE [dbo].[Livro_Autor]
+(
+	[Livro_Codl] INT NOT NULL,
+	[Autor_CodAu] INT NOT NULL,
+
+	CONSTRAINT [FK_Livro_Autor_Livro] FOREIGN KEY ([Livro_Codl]) REFERENCES [dbo].[Livro] ([CodL]),
+    CONSTRAINT [FK_Livro_Autor_Autor] FOREIGN KEY ([Autor_CodAu]) REFERENCES [dbo].[Autor] ([CodAu])
+)
+
+
+GO
+CREATE NONCLUSTERED INDEX [Livro_Autor_FKIndex1]
+    ON [dbo].[Livro_Autor]([Livro_Codl] ASC);
+
+
+GO
+CREATE NONCLUSTERED INDEX [Livro_Autor_FKIndex2]
+    ON [dbo].[Livro_Autor]([Autor_CodAu] ASC);
+
+
+
+ALTER TABLE [Livro] ADD [Preco] NUMERIC(18,2) NOT NULL
+
+
+create view VW_LIVROS_POR_AUTOR as
+(Select au.Nome Autor,li.Titulo, ass.Descricao Assunto
+from Livro li, Livro_Autor liau, Autor au, Livro_Assunto lias, Assunto ass
+Where li.CodL = liau.Livro_Codl
+And liau.Autor_CodAu = au.CodAu
+And li.CodL = lias.Livro_Codl
+And lias.Assunto_codAs = ass.CodAs
+Group by au.Nome , li.Titulo, ass.Descricao)

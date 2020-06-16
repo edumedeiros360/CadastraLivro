@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1FPtAVGqEJCo/2aY7HSq/NfnBPLq8UXjw0V+q+q4QI2tJM2kZlrBO4F/L62ULS8DAP0wUMpa4gR/JX+q7yeyPg==",
+  "success": true,
+  "projectFilePath": "C:\\Alura\\VB\\Aula 2 pronta\\Aprendendo VB\\Conexao\\BancoDeDados.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

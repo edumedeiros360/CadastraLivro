@@ -1,0 +1,44 @@
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro de Livros.vbprojAssemblyReference.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro_De_Livros.frmCadastroAutor.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro_De_Livros.frmCadastroLivro.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro_De_Livros.frmCadastroAssunto.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro_De_Livros.mdiPrincipal.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro_De_Livros.Resources.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro de Livros.vbproj.GenerateResource.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro de Livros.vbproj.CoreCompileInputs.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Cadastro de Livros.exe.config
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Cadastro de Livros.exe
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Cadastro de Livros.pdb
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Cadastro de Livros.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\CadastroDeLivros.Blibliotecas.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\CadastroDeLivros.Blibliotecas.pdb
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\CadastroDeLivros.Blibliotecas.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro de Livros.vbproj.CopyComplete
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro de Livros.exe
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro de Livros.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro de Livros.pdb
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\EnvDTE.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\stdole.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.MSXML.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Debug\EnvDTE80.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\Cadastro_De_Livros.frmRelatorio.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\RdlCompile.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Debug\RdlCompile.compiled

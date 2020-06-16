@@ -1,0 +1,10 @@
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\bin\Release\CadastroDeLivros.Blibliotecas.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\bin\Release\CadastroDeLivros.Blibliotecas.pdb
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\bin\Release\CadastroDeLivros.Blibliotecas.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\obj\Release\CadastroDeLivros.Bibliotecas.vbprojAssemblyReference.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\obj\Release\CadastroDeLivros.Blibliotecas.Resources.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\obj\Release\CadastroDeLivros.Bibliotecas.vbproj.GenerateResource.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\obj\Release\CadastroDeLivros.Bibliotecas.vbproj.CoreCompileInputs.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\obj\Release\CadastroDeLivros.Blibliotecas.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\obj\Release\CadastroDeLivros.Blibliotecas.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\CadastroDeLivros.Blibliotecas\obj\Release\CadastroDeLivros.Blibliotecas.pdb

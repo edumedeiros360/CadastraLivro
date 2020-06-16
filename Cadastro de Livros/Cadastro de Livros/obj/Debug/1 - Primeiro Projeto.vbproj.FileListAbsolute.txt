@@ -1,0 +1,12 @@
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\bin\Debug\Cadastro de Livros.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.vbprojAssemblyReference.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.Resources.resources
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\Cadastro de Livros.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\Cadastro de Livros\obj\Debug\_1___Primeiro_Projeto.Frm_TelaPrincipal.resources

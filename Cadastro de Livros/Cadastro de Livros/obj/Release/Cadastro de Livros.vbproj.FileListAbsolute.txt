@@ -1,0 +1,44 @@
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Cadastro de Livros.exe.config
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Cadastro de Livros.exe
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Cadastro de Livros.pdb
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Cadastro de Livros.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\CadastroDeLivros.Blibliotecas.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportingServices.Interfaces.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportViewer.Design.DLL
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportViewer.WebDesign.DLL
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.ReportViewer.WinForms.DLL
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\EnvDTE.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\EnvDTE80.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\stdole.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\Microsoft.MSXML.dll
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\CadastroDeLivros.Blibliotecas.pdb
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\bin\Release\CadastroDeLivros.Blibliotecas.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro de Livros.vbprojAssemblyReference.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro_De_Livros.frmRelatorioLivroAutor.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro_De_Livros.frmCadastroAutor.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro_De_Livros.frmCadastroLivro.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro_De_Livros.frmCadastroAssunto.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro_De_Livros.mdiPrincipal.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro_De_Livros.Resources.resources
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro de Livros.vbproj.GenerateResource.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\RdlCompile.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\RdlCompile.compiled
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro de Livros.vbproj.CoreCompileInputs.cache
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro de Livros.vbproj.CopyComplete
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro de Livros.exe
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro de Livros.xml
+C:\Alura\VB\Projetos\Cadastro de Livros\Cadastro de Livros\obj\Release\Cadastro de Livros.pdb

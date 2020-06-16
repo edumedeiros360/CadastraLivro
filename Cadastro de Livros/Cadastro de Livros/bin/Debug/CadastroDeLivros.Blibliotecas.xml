@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CadastroDeLivros.Blibliotecas
+</name>
+</assembly>
+<members>
+<member name="T:CadastroDeLivros.Blibliotecas.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CadastroDeLivros.Blibliotecas.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CadastroDeLivros.Blibliotecas.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CadastroDeLivros.Blibliotecas.Classes.Autor">
+ <summary>
+ Esta classe Representa o Autor de um Livro
+ </summary>
+</member>
+<member name="M:CadastroDeLivros.Blibliotecas.Classes.Autor.#ctor(System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="nome">Nome do autor</param>
+ <param name="codAs">Parametro opcional, se nao for informado o codigo sera -1. Codigo do autor na tabela</param>
+</member>
+<member name="T:CadastroDeLivros.Blibliotecas.Classes.Assunto">
+ <summary>
+ Esta classe Representa o Assunto de um Livro
+ </summary>
+</member>
+<member name="M:CadastroDeLivros.Blibliotecas.Classes.Assunto.#ctor(System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="descricao">Assunto ao qual o livro se refere</param>
+ <param name="codAu">Parametro opcional, se nao for informado o codigo sera -1. Codigo do assunto na tabela</param>
+</member>
+<member name="T:CadastroDeLivros.Blibliotecas.Classes.Livro">
+ <summary>
+ Esta classe Representa um Livro
+ </summary>
+</member>
+<member name="M:CadastroDeLivros.Blibliotecas.Classes.Livro.#ctor(System.String,CadastroDeLivros.Blibliotecas.Classes.Autor,CadastroDeLivros.Blibliotecas.Classes.Assunto,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="titulo">Titulo do Livro</param>
+ <param name="autor">Autor do Livro</param>
+ <param name="assunto">Assunto referente ao Livro</param>
+ <param name="codL">Parametro opcional, se nao for informado o codigo sera -1.  Codigo do livro na tabela</param>
+</member>
+</members>
+</doc>
